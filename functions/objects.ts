@@ -21,6 +21,10 @@ type User = {
     isPaid : boolean
 }
 
+type bool = boolean;
+let isActive: bool;
+isActive = false;
+
 const createCourse = (user: User): {} => {
     
     
