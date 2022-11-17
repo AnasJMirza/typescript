@@ -9,3 +9,5 @@ const login = (name: string, email: string, isPaid: boolean = true) => {
 login("Anas", "anas@gmail.com")
 
 greetings("Hello, Anas!");
+
+export {};
